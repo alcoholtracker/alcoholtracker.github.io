@@ -1,6 +1,7 @@
 layout: page
 title: "Datenschutz"
-permalink: /privacy/
+permalink: /test/
+
 
 ## Welcome to GitHub Pages - Privacy
 
