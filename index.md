@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/alcoholtracker/alcoholtracker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Wie hoch ist dein aktueller Promillepegel und wann bist du wieder nüchtern? Berechne deinen Promilleverlauf und behalte deinen wöchentlichen Alkoholkonsum im Blick.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+- Getränke: Verwende zahlreiche alkoholische Getränke wie Bier, Wein, Likör,  Schnaps oder Cocktails und vergleiche die Alkoholmengen.
+- Promilleverlauf: Berechne deinen aktuellen Alkoholpegel und zeige den Promilleverlauf an, bis du wieder nüchtern bist.
+- Wochenübersicht: Stelle deinen wöchentlichen Alkoholkonsum übersichtlich dar.
+- Synchronisation: Die Daten werden in deiner privaten iCloud abgespeichert und stehen dir somit auch auf deinen anderen Geräten zur Verfügung.
+
+### Haftungsausschluss
+
+- Der berechnete Promillewert ist ein Schätzwert und kann stark von der realen Blut-Alkohol-Konzentration abweichen. Zudem kann die hinterlegte Berechnungsmethodik Fehler aufweisen oder falsche Werte anzeigen.
+- Der Author übernimmt keine Haftung für Straftaten des Verwenders aufgrund des berechneten Promillewerts. Der Promillewert darf nicht als Indikation für eine Fahrtüchtigkeit oder ähnlichem verwendet werden.
+
+
+### Features
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
