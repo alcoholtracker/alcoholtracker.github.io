@@ -14,4 +14,8 @@ Wie hoch ist dein aktueller Promillepegel und wann bist du wieder nüchtern? Ber
 
 ### Support und Kontakt
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Probleme mit der App? Bitte kontaktieren Sie uns jederzeit per E-Mail [alcoholtracker@outlook.com](alcoholtracker@outlook.com) und wir helfen so schnell wie möglich.
+
+### Datenschutz
+
+Bei der Benutzung der App werden keine personenbezogenen Daten erfasst oder verarbeitet.
