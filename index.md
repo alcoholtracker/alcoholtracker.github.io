@@ -10,7 +10,7 @@ Wie hoch ist dein aktueller Promillepegel und wann bist du wieder nüchtern? Ber
 ### Haftungsausschluss
 
 - Der berechnete Promillewert ist ein Schätzwert und kann stark von der realen Blut-Alkohol-Konzentration abweichen. Zudem kann die hinterlegte Berechnungsmethodik Fehler aufweisen oder falsche Werte anzeigen.
-- Der Author übernimmt keine Haftung für Straftaten des Verwenders aufgrund des berechneten Promillewerts. Der Promillewert darf nicht als Indikation für eine Fahrtüchtigkeit oder ähnlichem verwendet werden.
+- Der Author übernimmt keine Haftung für die Verwendung der App und den berechneten Promillewert. Der Promillewert darf nicht als Indikation für eine Fahrtüchtigkeit oder ähnlichem verwendet werden.
 
 ### Support und Kontakt
 
